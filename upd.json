@@ -1,0 +1,18 @@
+{
+"_id": "674bb56d4200413796e9496a",
+"cronograma": [
+{
+"id": "674ceb51b12665e15fe9496c",
+"id_grado": "9",
+"monto_pago": 250000,
+"num_mes": "2"
+},
+{
+"id": "674ceb51b12665e15fe9496d",
+"id_grado": "10",
+"monto_pago": 10000000,
+"num_mes": "2"
+}
+],
+"id_institucion": "Universidad de los Andes"
+}
